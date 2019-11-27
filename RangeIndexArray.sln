@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeIndexArray", "RangeIndexArray\RangeIndexArray.csproj", "{52B886C9-F82D-4FAD-BDFE-EBD02FE53874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeArrayTest", "RangeArrayTest\RangeArrayTest.csproj", "{A915EE06-B4B2-4A7E-BEFA-5BD070BD97F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B886C9-F82D-4FAD-BDFE-EBD02FE53874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B886C9-F82D-4FAD-BDFE-EBD02FE53874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B886C9-F82D-4FAD-BDFE-EBD02FE53874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B886C9-F82D-4FAD-BDFE-EBD02FE53874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A915EE06-B4B2-4A7E-BEFA-5BD070BD97F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A915EE06-B4B2-4A7E-BEFA-5BD070BD97F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A915EE06-B4B2-4A7E-BEFA-5BD070BD97F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A915EE06-B4B2-4A7E-BEFA-5BD070BD97F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3CF0FF0-448C-4649-9A24-0D10486B5813}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Lisa\source\repos\RangeIndexArray\RangeIndexArray\bin\Debug\netcoreapp3.0\RangeIndexArray.deps.json
+C:\Users\Lisa\source\repos\RangeIndexArray\RangeIndexArray\bin\Debug\netcoreapp3.0\RangeIndexArray.dll
+C:\Users\Lisa\source\repos\RangeIndexArray\RangeIndexArray\bin\Debug\netcoreapp3.0\RangeIndexArray.pdb
+C:\Users\Lisa\source\repos\RangeIndexArray\RangeIndexArray\obj\Debug\netcoreapp3.0\RangeIndexArray.csprojAssemblyReference.cache
+C:\Users\Lisa\source\repos\RangeIndexArray\RangeIndexArray\obj\Debug\netcoreapp3.0\RangeIndexArray.AssemblyInfoInputs.cache
+C:\Users\Lisa\source\repos\RangeIndexArray\RangeIndexArray\obj\Debug\netcoreapp3.0\RangeIndexArray.AssemblyInfo.cs
+C:\Users\Lisa\source\repos\RangeIndexArray\RangeIndexArray\obj\Debug\netcoreapp3.0\RangeIndexArray.dll
+C:\Users\Lisa\source\repos\RangeIndexArray\RangeIndexArray\obj\Debug\netcoreapp3.0\RangeIndexArray.pdb
